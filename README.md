@@ -15,7 +15,7 @@
 ### Social:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/serov-nikita//" target="_blank">
+    <a href="https://www.linkedin.com/in/serov-nikita/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/NikitaS_95" target="_blank">
