@@ -22,7 +22,7 @@ Currently working in fintech and banking products, developing UI and API test au
 
 📍 Batumi, Georgia
 
-📫 Email: nserov95@gmail.com
+📫 Email: nikita.serov.job@gmail.com
 
 ---
 
